@@ -8,14 +8,14 @@ Several perl and R scripts placed here were employed to perform the analysis.
 *** In the paper, we focused on splcing variants that create / lose splice site. If you'd like to know about exon-skipping variants, please check SPANR (http://tools.genes.toronto.edu/)***
 
 # Workflow
-1) Calculate the score and choose possible candidates for splicing variants
-  -- Regress_Score.v0.**.R
-2) Design constructs for the candidates to perform cell-based splicing assay
-  -- ConstructDesigner.v0.**.R
-3) Perform cell-based splicing assay (transfect constructs to cells, RNA extraction from the cells, prepare libraries for Miseq run
-4) Count normal / aberrant splciing products and calculate p-values from raw-fastq files (alignment not required)
-  -- Make.inputframe.2.pl
-  -- SpliceConstructSearchGrepV1.*.pl
+1) Calculate the score and choose possible candidates for splicing variants<br>
+  -- Regress_Score.v0.**.R<br>
+2) Design constructs for the candidates to perform cell-based splicing assay<br>
+  -- ConstructDesigner.v0.**.R<br>
+3) Perform cell-based splicing assay (transfect constructs to cells, RNA extraction from the cells, prepare libraries for Miseq run<br>
+4) Count normal / aberrant splciing products and calculate p-values from raw-fastq files (alignment not required)<br>
+  -- Make.inputframe.2.pl<br>
+  -- SpliceConstructSearchGrepV1.*.pl<br>
 *means developing version. Please use the latest one.
 
 # Rationale for the cell-based splicing assay (p-values obtained from SpliceConstructSearchGrepV1.5.pl)
