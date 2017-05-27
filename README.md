@@ -7,7 +7,7 @@ Several perl and R scripts placed here were employed to perform the analysis.
 
 *** In the paper, we focused on splcing variants that create / lose splice site. If you'd like to know about exon-skipping variants, please check SPANR (http://tools.genes.toronto.edu/)***
 
-# Big Picture
+# Workflow
 1) Calculate the score and choose possible candidates for splicing variants
   -- Regress_Score.v0.88.R
 2) Design constructs for the candidates to perform cell-based splicing assay
