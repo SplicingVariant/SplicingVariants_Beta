@@ -1,5 +1,5 @@
 # SplicingVariants_Beta
-Maintained by Kaoruy Ito (splicing.variant@gmail.com)
+Maintained by Kaoru Ito (splicing.variant@gmail.com)
 
 This document is for the paper "Identification of Pathigenic Gene Mutations in LMNA and MYBPC3 That Alter RNA splicing".
 In the paper, we chose possibile splicing variants by in-silico prediction and tested them by cell-based splicing assay.
