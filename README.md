@@ -14,8 +14,8 @@ Several perl and R scripts placed here were employed to perform the analysis.
   -- ConstructDesigner.v0.**.R<br>
 3) Perform cell-based splicing assay (transfect constructs to cells, RNA extraction from the cells, prepare libraries for Miseq run<br>
 4) Count normal / aberrant splciing products and calculate p-values from raw-fastq files (alignment not required)<br>
-  -- Make.inputframe.*.pl<br>
-  -- SpliceConstructSearchGrepV1.*.pl<br>
+  -- Make.inputframe.**.pl<br>
+  -- SpliceConstructSearchGrepV1.**.pl<br>
 *means developing version. Please use the latest one.
 
 To run each script, please read README_regress.score.md, README_construct.designer.md and README_spliceconstructsearch.md.
