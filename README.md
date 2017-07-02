@@ -18,7 +18,7 @@ Additionally, not only GT/AG broken but also nearby nucleotide changes (donor:-3
  ![Supplementary Figure](https://github.com/SplicingVariant/SplicingVariants_Beta/blob/master/SplicingVariant.png)
  
 Several papers reported that such variants cause severe mendelian disroders, such as progeria syndrome and dilated cardiomyopathy 
-However, because a method for detecting such splicing-altering variants in a high-throughput pipeline had not been developed, these variants were overlooled in usual NGS settings.
+However, because a method for detecting such splicing-altering variants in a high-throughput pipeline had not been developed, these variants were overlooled in usual NGS settings.<br>
 Here we present a high-throughput-friendly method to detecte candidates for a splicing-altering variants.
 Additionally we developed a cell-based splicing assay utilizing NGS technology for mulitiplexing analysis, where construct design and assessment of splicing alteration are automated.
   
@@ -31,7 +31,7 @@ Additionally we developed a cell-based splicing assay utilizing NGS technology f
 4) Count normal / aberrant splciing products and calculate p-values from raw-fastq files (alignment not required)<br>
   -- Make.inputframe.#.pl<br>
   -- SpliceConstructSearchGrepV1.##.pl<br>
-* # means developing version. Please use the latest one.
+\* # means developing version. Please use the latest one.
 
 To run each script, please read README\_regress.score.md, README\_construct.designer.md and README\_spliceconstructsearch.md.
 
