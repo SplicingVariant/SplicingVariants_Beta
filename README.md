@@ -19,6 +19,7 @@ Additionally, not only GT/AG broken but also nearby nucleotide changes (donor:-3
  
 Several papers reported that such variants cause severe mendelian disroders, such as progeria syndrome and dilated cardiomyopathy 
 However, because a method for detecting such splicing-altering variants in a high-throughput pipeline had not been developed, these variants were overlooled in usual NGS settings.<br>
+
 Here we present a high-throughput-friendly method to detecte candidates for a splicing-altering variants.
 Additionally we developed a cell-based splicing assay utilizing NGS technology for mulitiplexing analysis, where construct design and assessment of splicing alteration are automated.
   
