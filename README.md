@@ -14,7 +14,7 @@ These intepretations are NOT ALWAYS TRUE.**<br>
  
 Messenger RNA splicing, where intron regions flanked by a splice donor site and a splice acceptor site are cut out, occurs before protein syhthesis by mRNA translation.<br>
 In the mRNA splicing procedure, it's known that a nucleotide alteration that doens't change amino acide sequence can activate a cryptic splice site, which results in creating an aberrant splice donor/acceptor site in the middle of an exon / intron, followed by the exon truncation / intron retention in the protein.
-Additionally, not only GT/AG broken but also nearby nucleotide changes (donor:-3~+6bp, acceptor:-20~+3 from the splice juction) can disrupt the function of a canonical splice site.
+Additionally, not only GT/AG broken but also nearby nucleotide changes (donor:-3~+6bp, acceptor:-20~+3 from the splice juction) can disrupt the function of a canonical splice site.<br>
  ![Supplementary Figure](https://github.com/SplicingVariant/SplicingVariants_Beta/blob/master/SplicingVariant.png)
  
 Several papers reported that such variants cause severe mendelian disroders, such as progeria syndrome and dilated cardiomyopathy 
